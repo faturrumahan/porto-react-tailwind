@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "MechaLib",
+    "desc": "Personal mini project",
+    "category": "web",
+    "link": "https://mechlib.000webhostapp.com/",
+    "img": "https://i.ibb.co/xhZyqFL/Web-capture-11-7-2022-124159-mechlib-000webhostapp-com.jpg",
+    "tags": ["laravel-8", "web-app"]
+  },
+  {
+    "id": 2,
+    "name": "Corona Race by Mumetz",
+    "desc": "shoot with sony a5000 camera, sony 35mm lens, and edited using adobe premiere pro",
+    "category": "video",
+    "link": "https://www.youtube.com/watch?v=2ixAcYIAS_M",
+    "img": "https://i.ibb.co/rpBfXzL/corona-race.jpg",
+    "tags": ["cycling", "premiere-pro", "race"]
+  },
+  {
+    "id": 3,
+    "name": "Exfest 2019 by Himatif UPNVYK",
+    "desc": "shoot with canon 60d camera, canon 50mm lens, and edited using adobe premiere pro",
+    "category": "video",
+    "link": "https://www.youtube.com/watch?v=DN7BSeb06tg",
+    "img": "https://i.ibb.co/bzyzkM4/exfest2019.jpg",
+    "tags": ["event", "after-movie", "premiere-pro"]
+  },
+  {
+    "id": 4,
+    "name": "Bersepeda Tanpa Arah dan Tujuan",
+    "desc": "shoot with sony a5000 camera, sony 35mm lens, and edited using adobe premiere pro",
+    "category": "video",
+    "link": "https://www.youtube.com/watch?v=E9NzGQuZYuI",
+    "img": "https://i.ibb.co/7jjvC1b/bersepedatanpaarahtujuan.jpg",
+    "tags": ["cycling", "chill", "premiere-pro"]
+  },
+  {
+    "id": 5,
+    "name": "Srawoong",
+    "desc": "shoot with sony a5000 camera, sony 35mm lens, and edited using adobe lightroom classic",
+    "category": "photo",
+    "link": "https://www.instagram.com/p/CYLle7rhjBB/",
+    "img": "https://i.ibb.co/QrpwmqD/srawoong.jpg",
+    "tags": ["cycling", "city", "street"]
+  },
+  {
+    "id": 6,
+    "name": "Tricks",
+    "desc": "shoot with sony a5000 camera, sony kit lens, and edited using adobe lightroom classic",
+    "category": "photo",
+    "link": "https://www.instagram.com/p/CKG0M60MrrU/",
+    "img": "https://i.ibb.co/hfVxk4F/skid.jpg",
+    "tags": ["street", "cycling"]
+  },
+  {
+    "id": 7,
+    "name": "Overtake",
+    "desc": "shoot with sony a5000 camera, sony 35mm lens, and edited using adobe lightroom classic",
+    "category": "photo",
+    "link": "https://www.instagram.com/p/CRtnzY8MBto/",
+    "img": "https://i.ibb.co/Xj8mjRP/overtake.jpg",
+    "tags": ["cycling", "street", "fast"]
+  },
+  {
+    "id": 8,
+    "name": "Klaten Express w/ Sotowiyah",
+    "desc": "Shoot with sony a5000 camera, sony 18-105mm lens, and edited using adobe lightroom classic",
+    "category": "photo",
+    "link": "https://www.instagram.com/p/CQOWlI-MlzE/",
+    "img": "https://i.ibb.co/3pQdYyR/klatensotowiyah.jpg",
+    "tags": ["cycling", "AKAP"]
+  },
+  {
+    "id": 9,
+    "name": "Vortexseries VX5",
+    "desc": "Lubed outemu brown switches, Tuned stabs, alcha PBT keycaps ,foam dampener",
+    "category": "keeb",
+    "link": "https://youtu.be/pGvdKIUy6J0?t=561",
+    "img": "https://i.ibb.co/DkSGkM8/vx5.jpg",
+    "tags": ["60%"]
+  },
+  {
+    "id": 10,
+    "name": "Vortexseries VX5 Pro",
+    "desc": "Jwick T1 switches, tuned stabs, stacked acrylic case, noir PBT keycaps",
+    "category": "keeb",
+    "link": "https://www.youtube.com/watch?v=UiIG2hqk98c",
+    "img": "https://i.ibb.co/9G0gCxg/vx5pro.jpg",
+    "tags": ["60%", "acrylic"]
+  },
+  {
+    "id": 11,
+    "name": "FLCMMK MK870",
+    "desc": "Lubed gateron yellow switched, tuned stabs, metropolis PBT clone keycaps, foam dampener",
+    "category": "keeb",
+    "link": "https://www.youtube.com/watch?v=rvyeAC32gJg",
+    "img": "https://i.ibb.co/jfBgmhf/mk870.jpg",
+    "tags": ["TKL", "south-facing"]
+  },
+  {
+    "id": 12,
+    "name": "Faturrumahan Portofolio Page",
+    "desc": "My personal web page",
+    "category": "web",
+    "link": "#",
+    "img": "https://i.ibb.co/ZmQf91D/Web-capture-11-7-2022-215340-localhost.jpg",
+    "tags": ["react-js", "tailwind-css", "front-end"]
+  },
+  {
+    "id": 13,
+    "name": "Sermo Ride w/ JKT.CC",
+    "desc": "shoot with sony a6000 camera, sony 50mm lens, and edited using adobe lightroom classic",
+    "category": "photo",
+    "link": "https://www.instagram.com/p/CHnQASpnNWB/",
+    "img": "https://i.ibb.co/44JnVFT/jktcc.jpg",
+    "tags": ["cycling", "group"]
+  },
+  {
+    "id": 14,
+    "name": "Mangafest 9",
+    "desc": "shoot with canon 60d camera, canon 50mm lens, and edited using adobe lightroom classic",
+    "category": "photo",
+    "link": "https://www.instagram.com/p/B4H3FpEAZ9f/",
+    "img": "https://i.ibb.co/dgxsV2P/mf9-gochi.jpg",
+    "tags": ["idol", "stage", "japan"]
+  },
+  {
+    "id": 15,
+    "name": "DGTMB Cycling Cap",
+    "desc": "shoot with sony a5000 camera, sony kit lens, gopro hero 5, and edited using adobe premiere pro",
+    "category": "video",
+    "link": "https://www.instagram.com/tv/CIUornThHV-/",
+    "img": "https://i.ibb.co/LCC0Z13/dgtmb.jpg",
+    "tags": ["cycling", "cap"]
+  }
+]
