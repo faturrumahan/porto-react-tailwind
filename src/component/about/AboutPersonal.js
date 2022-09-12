@@ -10,7 +10,7 @@ const AboutPersonal = () => {
         <p>Full Name</p>
         <p className="-ml-8 xl:-ml-48">Fathurrohman</p>
         <p>Birth Date</p>
-        <p className="-ml-8 xl:-ml-48">10 November 2000</p>
+        <p className="-ml-8 xl:-ml-48">November 2000</p>
         <p>Email</p>
         <p className="-ml-8 xl:-ml-48">Fathurrohman.works@gmail.com</p>
         <p>Education</p>
