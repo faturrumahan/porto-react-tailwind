@@ -92,7 +92,7 @@
   {
     "id": 11,
     "name": "FLCMMK MK870",
-    "desc": "Lubed gateron yellow switched, tuned stabs, metropolis PBT clone keycaps, foam dampener",
+    "desc": "Lubed gateron yellow switches, tuned stabs, metropolis PBT clone keycaps, foam dampener",
     "category": "keeb",
     "link": "https://www.youtube.com/watch?v=rvyeAC32gJg",
     "img": "https://i.ibb.co/jfBgmhf/mk870.jpg",
@@ -151,5 +151,14 @@
     "link": "https://img.freepik.com/free-vector/construction-with-black-yellow-stripes_1017-30755.jpg",
     "img": "https://img.freepik.com/free-vector/construction-with-black-yellow-stripes_1017-30755.jpg",
     "tags": ["react-js", "front-end"]
+  },
+  {
+    "id": 18,
+    "name": "Rexus Daiva D68",
+    "desc": "Gateron pro yellow switches, tuned stabs, BoW JapRoot PBT keycaps, foam dampener",
+    "category": "keeb",
+    "link": "https://youtu.be/v9ZBCrIEeOU",
+    "img": "https://i.ibb.co/CVwzxmZ/Screenshot-300.png",
+    "tags": ["65%"]
   }
 ]
