@@ -148,8 +148,8 @@
     "name": "ValoPedia",
     "desc": "Valorant content information website",
     "category": "web",
-    "link": "https://img.freepik.com/free-vector/construction-with-black-yellow-stripes_1017-30755.jpg",
-    "img": "https://img.freepik.com/free-vector/construction-with-black-yellow-stripes_1017-30755.jpg",
+    "link": "https://valorantpedia.vercel.app",
+    "img": "https://i.ibb.co/TqNB5bg/Web-capture-26-12-2022-193037-valorantpedia-vercel-app.jpg",
     "tags": ["react-js", "front-end"]
   },
   {
