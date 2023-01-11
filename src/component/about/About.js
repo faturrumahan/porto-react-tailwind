@@ -25,28 +25,10 @@ const About = () => {
           </div>
           <div className="text-white mt-3 text-center xl:text-left text-xs xl:text-base px-3 md:px-0">
             <p>
-              Hello, I'm Fatur. Lorem ipsum dolor sit amet, consectetur
-              adipiscing elit. Nunc viverra leo augue, id bibendum nunc
-              facilisis vel. Proin est augue, molestie malesuada urna eu, luctus
-              cursus velit. Nam placerat sollicitudin nisi, at interdum felis
-              sagittis non. Nam ut nibh sed nisl rhoncus tristique. Praesent eu
-              suscipit libero, at efficitur dolor. Sed elementum mollis
-              pulvinar.
+              Hello, I am Fathurrohman but some people also known me as faturrumahan, like my instagram username. For now, I am an undergraduate informatics student at UPN "Veteran" Yogyakarta. I have an interest in the web-development field, especially front-end and back-end. Recently I study React JS for front-end and Laravel for back-end and full-stack.
             </p>
             <p>
-              Donec nec gravida turpis. Cras consectetur ante at est lacinia, a
-              consectetur lorem sodales. In sodales pharetra diam. Maecenas
-              mollis leo id lorem sollicitudin dapibus. Etiam in rhoncus mauris.
-              Nunc tristique augue metus. Donec aliquam, nunc et fringilla
-              eleifend, tortor dui fringilla mi, non consequat nunc felis vitae
-              augue. Proin aliquam lobortis elementum. Integer sit amet erat
-              commodo, congue magna et, volutpat dui. Ut velit urna, viverra
-              placerat aliquet ut, faucibus ac velit. Aenean et velit laoreet,
-              lobortis augue at, laoreet purus. Suspendisse quis mauris metus.
-              Mauris arcu diam, laoreet ac risus non, ornare ornare nisi.
-              Vivamus varius nunc quis hendrerit condimentum. Morbi ultricies
-              semper efficitur. Nullam eget dictum lectus. Duis eu neque nec
-              augue scelerisque rhoncus et a tortor. Vivamus in placerat metus.
+              Other than that, I also love visual art such as photography and videography, listening to some kind of music, doing workouts like running and cycling, and following trends about technology.
             </p>
           </div>
         </div>
