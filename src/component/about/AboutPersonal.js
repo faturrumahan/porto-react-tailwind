@@ -12,7 +12,7 @@ const AboutPersonal = () => {
         <p>Birth Date</p>
         <p className="-ml-8 xl:-ml-48">November 2000</p>
         <p>Email</p>
-        <p className="-ml-8 xl:-ml-48">Fathurrohman.works@gmail.com</p>
+        <p className="-ml-8 xl:-ml-48">Fathurrohman.work@gmail.com</p>
         <p>Education</p>
         <p className="-ml-8 xl:-ml-48">Undergraduate Informatics Student</p>
       </div>
